@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-# Sophie Shapiro
+# 
 
 
 ## About Me
