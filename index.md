@@ -5,7 +5,7 @@ layout: default
 
 
 ## About Me
-I am a PhD candidate at the Scripps Institution of Oceanography. As part of the [SOCCOM](https://soccom.org/) project, I use Argo data to measure the upwelling of deep waters in the Southern Ocean. Previously, I did my undergraduate degree at Smith College and worked as a horticulturist. 
+I am a physical oceanographer and PhD candidate at the Scripps Institution of Oceanography. As part of the [SOCCOM](https://soccom.org/) project, I use Argo data to measure the upwelling of deep waters in the Southern Ocean. Previously, I did my undergraduate degree at Smith College and worked as a horticulturist. 
 
 
 ## Publications
