@@ -5,8 +5,27 @@
 
 /* Custom tweaks */
 
+/* Ocean header background */
 .page-header {
-  padding: 2rem 1rem;
+  background: url("/assets/css/streamlines.jpg") no-repeat center center;
+  background-size: cover;
+  padding: 6rem 1rem;
+  text-align: center;
+  position: relative;
+}
+/* Dark overlay for readability */
+.page-header::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: rgba(0, 40, 70, 0.5);
+}
+
+/* Make text sit above overlay */
+.page-header * {
+  position: relative;
+  z-index: 1;
+  color: white !important;
 }
 
 .main-content h1, 
