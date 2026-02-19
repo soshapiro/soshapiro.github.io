@@ -17,3 +17,5 @@ markdown: kramdown
 
 plugins:
   - jekyll-seo-tag
+
+google_site_verification: "zbY6ITYgBlV0qYqcyHuGEOifACca2a_5DYSm9ESpo2s"
