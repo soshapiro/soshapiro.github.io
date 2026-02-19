@@ -1,5 +1,19 @@
 title: Sophie Shapiro 
-description:   
+description: Physical Oceanographer studying deep water pathways and Southern Ocean circulation
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-cayman
+
+url: "https://soshapiro.github.io"
+baseurl: ""
+
+author:
+  name: Sophie Shapiro
+
+github:
+  is_project_page: false
+
+markdown: kramdown
+
+plugins:
+  - jekyll-seo-tag
