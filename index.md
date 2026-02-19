@@ -6,15 +6,18 @@ title: Home
 {% seo %}
 
 
+
 # Sophie Shapiro
+
+## About Me
+I am a physical oceanographer and PhD candidate at the Scripps Institution of Oceanography. As part of the [SOCCOM](https://soccom.org/) project, I use Argo data to measure the upwelling of deep waters in the Southern Ocean. I work to understand how heat and nutrients in the deep ocean reach the surface and impact global heat and carbon cycles. Previously, I did my undergraduate degree at Smith College and worked as a horticulturist. 
+
+
 ## Research Interests
 - Southern Ocean
 - Deep water pathways
 - Large to mesoscale circulation
 - Global heat and nutrient cycling
-
-## About Me
-I am a physical oceanographer and PhD candidate at the Scripps Institution of Oceanography. As part of the [SOCCOM](https://soccom.org/) project, I use Argo data to measure the upwelling of deep waters in the Southern Ocean. I work to understand how heat and nutrients in the deep ocean reach the surface and impact global heat and carbon cycles. Previously, I did my undergraduate degree at Smith College and worked as a horticulturist. 
 
 
 ## Publications
