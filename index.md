@@ -1,10 +1,10 @@
-
 ---
 layout: default
 title: Home
 ---
 
 {% seo %}
+
 
 # Sophie Shapiro
 ## Research Interests
