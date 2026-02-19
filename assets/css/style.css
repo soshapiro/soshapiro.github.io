@@ -1,0 +1,20 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* Custom tweaks */
+
+.page-header {
+  padding: 2rem 1rem;
+}
+
+.main-content h1, 
+.main-content h2 {
+  margin-top: 2rem;
+}
+
+img {
+  margin: 1.5rem 0;
+  border-radius: 8px;
+}
