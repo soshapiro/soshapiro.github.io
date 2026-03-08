@@ -27,3 +27,7 @@ I am a physical oceanographer and PhD candidate at the Scripps Institution of Oc
 [Orcid Profile](https://orcid.org/0009-0005-3922-7653)
 
 * Shapiro, S., Talley, L. D., & Purkey, S. G. (2025). Indo-Pacific Deep Water pathways and transports in the South Australian Basin. Journal of Geophysical Research: Oceans, 130, e2025JC022405. [https://doi.org/10.1029/2025JC022405](https://doi.org/10.1029/2025JC022405).
+
+## Curriculum Vitae
+
+[Download my CV](assets/files/Shapiro_CV.pdf)
